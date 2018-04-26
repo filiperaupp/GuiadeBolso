@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#006064"
+    tools:context=".AddActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADICIONANDO NOVA PALAVRA"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:padding="5dp"
+        android:textSize="25dp"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nova palavra, em inglês"
+        android:textColor="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <EditText
+        android:id="@+id/etxPalavra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tradução"
+        android:textColor="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <EditText
+        android:id="@+id/etxTraducao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Frase"
+        android:textColor="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <EditText
+        android:id="@+id/etxFrase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_margin="10dp"
+        android:textSize="25dp"/>
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:text="Adicionar"
+        android:layout_marginTop="5dp"
+        android:textColor="#fff"
+        android:background="#540300"
+        android:textSize="25dp"/>
+
+</LinearLayout>

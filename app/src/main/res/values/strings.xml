@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Guia de Bolso</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+    <string name="um">Um</string>
+    <string name="dois">Dois</string>
+    <string name="tres">Três</string>
+    <string name="quatro">Quatro</string>
+    <string name="cinco">Cinco</string>
+    <string name="seis">Seis</string>
+    <string name="sete">Sete</string>
+    <string name="oito">Oito</string>
+    <string name="nove">Nove</string>
+    <string name="dez">Dez</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Siz</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+
+    <string name="comida">Comida</string>
+    <string name="bebida">Bebida</string>
+    <string name="agua">Água</string>
+    <string name="carne">Carne</string>
+    <string name="batatafrita">Batata frita</string>
+    <string name="bala">Bala</string>
+    <string name="sorvete">Sorvete</string>
+    <string name="cafedamanha">Café da manhã</string>
+    <string name="almoco">Almoço</string>
+    <string name="janta">Janta</string>
+
+    <string name="food">Food</string>
+    <string name="beverage">Beverage</string>
+    <string name="water">Water</string>
+    <string name="beef">Carne</string>
+    <string name="frenchfries">French fries</string>
+    <string name="candy">Candy</string>
+    <string name="icecream">Ice Cream</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+
+    <string name="mae">Mãe</string>
+    <string name="pai">Pai</string>
+    <string name="irmao">Irmão</string>
+    <string name="irma">Irmã</string>
+    <string name="filho">Filho</string>
+    <string name="filha">Filha</string>
+    <string name="avom">Avô</string>
+    <string name="avof">Avó</string>
+    <string name="tio">Tio</string>
+    <string name="tia">Tia</string>
+
+    <string name="mother">Mother</string>
+    <string name="father">Father</string>
+    <string name="brother">Brother</string>
+    <string name="sister">Sister</string>
+    <string name="son">Son</string>
+    <string name="daughter">Daughter</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="grandmother">Grandmother</string>
+    <string name="uncle">Uncle</string>
+    <string name="aunt">Aunt</string>
+
+    <string name="frase1">E aí, beleza?</string>
+    <string name="frase2">Não faço ideia</string>
+    <string name="frase3">Nunca ouvi falar</string>
+    <string name="frase4">Deixa pra lá</string>
+    <string name="frase5">Em breve</string>
+    <string name="frase6">Como assim?</string>
+    <string name="frase7">Até aqui, tudo bem</string>
+    <string name="frase8">Até onde eu sei</string>
+    <string name="frase9">Já estava na hora</string>
+    <string name="frase10">Salvo pelo gongo</string>
+
+    <string name="phrase1">Whats up?</string>
+    <string name="phrase2">To have no clue</string>
+    <string name="phrase3">Never heard of</string>
+    <string name="phrase4">Never mind</string>
+    <string name="phrase5">Pretty soon</string>
+    <string name="phrase6">How come?</string>
+    <string name="phrase7">So far, so good</string>
+    <string name="phrase8">As far as I know</string>
+    <string name="phrase9">It is high time</string>
+    <string name="phrase10">Saved by the bell</string>
+</resources>
